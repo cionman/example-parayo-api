@@ -17,4 +17,4 @@ spring:
 
 parayo:
   file-upload:
-    default-dir: /parayo
+    default-dir: /Users/mac/files
